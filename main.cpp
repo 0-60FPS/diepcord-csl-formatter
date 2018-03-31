@@ -66,8 +66,9 @@ int main()
     
     std::cout << notify[noti] << '\n';
     
-    std::cout << "**Link:** ";
-    std::cout << link << '\n';
+    std::cout << "**Link:** <";
+    std::cout << link << ">";
+    std::cout << '\n';
     
     std::cout << "**Gamemode:** ";
     std::cout << gamemode[gamemo] << '\n';
