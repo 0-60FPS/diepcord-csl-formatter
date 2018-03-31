@@ -86,7 +86,7 @@ int main()
     std::cout << id << '\n';
     
     std::cout << "**Scoreboard:** " << '\n';
-    std::cout << id << '\n';
+    std::cout << '\n';
   
         
 }
