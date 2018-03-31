@@ -66,7 +66,7 @@ int main()
     
     std::cout << notify[noti] << '\n';
     
-    std::cout << "**Link:** <";
+    std::cout << "**Link:** <http://";
     std::cout << link << ">";
     std::cout << '\n';
     
