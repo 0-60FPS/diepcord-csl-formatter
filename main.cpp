@@ -84,9 +84,8 @@ int main()
     std::cout << "**ID:** ";
     std::cout << id << '\n';
     
-    std::cout << "**Scoreboard:** ";
+    std::cout << "**Scoreboard:** " << '\n';
     std::cout << id << '\n';
-    std::cout << id << '\n';
-   
+  
         
 }
