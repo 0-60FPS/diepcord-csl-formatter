@@ -1,2 +1,2 @@
 # diepcord-csl-formatter
-A little cpp script to make writing CSLs a little faster
+A little cpp program to make writing CSLs a little faster
