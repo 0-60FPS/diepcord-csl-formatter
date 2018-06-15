@@ -40,7 +40,7 @@ int main()
     std::cout << '\n';
     
     
-    std::cout << "Specify Location: [0]:linode-fremont [1]:linode-dallas [2]:vultr-miami [3]:linode-london [4]:vultr-amsterdam [5]:vultr-paris [6]:vultr-chicago [7]:vultr-sydney [8]:vultr-tokyo [9]:linode-newark [10]:linode-singapore [11]:linode-frankfurt";
+    std::cout << "Specify Location: [0]:vultr-la [1]:linode-dallas [2]:vultr-miami [3]:linode-london [4]:vultr-amsterdam [5]:vultr-paris [6]:vultr-chicago [7]:vultr-sydney [8]:vultr-tokyo [9]:linode-newark [10]:vultr-singapore [11]:linode-frankfurt";
     std::cout << '\n';
     int loc;
     std::cin >> loc;
