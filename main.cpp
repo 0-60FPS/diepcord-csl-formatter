@@ -6,7 +6,7 @@ int main()
     const char* notify[] = {"@US Notify", "@EU Notify", "@Asia/Oceania Notify"};
     const char* gamemode[] = {"2TDM", "4TDM"};
     const char* team[] = {"Blue", "Red", "Green", "Purple"};
-    const char* region[] = {"linode-fremont", "linode-dallas", "vultr-miami", "linode-london", "vultr-amsterdam", "vultr-paris", "vultr-chicago", "vultr-sydney", "vultr-tokyo", "linode-newark", "linode-singapore", "linode-frankfurt"};
+    const char* region[] = {"vultr-la", "linode-dallas", "vultr-miami", "linode-london", "vultr-amsterdam", "vultr-paris", "vultr-chicago", "vultr-sydney", "vultr-tokyo", "linode-newark", "vultr-singapore", "linode-frankfurt"};
     
     std::cout << "===Avocado's Diep CSL Formatter 1.0===" << '\n';
     std::cout << '\n';
